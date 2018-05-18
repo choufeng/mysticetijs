@@ -1,2 +1,3 @@
-# mysticetijs
-basic framework with vuejs, quasar ui.
+# Quasar App
+
+> WIP
